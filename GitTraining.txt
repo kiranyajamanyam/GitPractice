@@ -1,0 +1,14 @@
+Folder -> Repository
+
+1. Download -> Clone
+   Clone: 
+2. Pull    
+3. Upload
+   a) Commit
+   b) Push
+   
+   
+   Clone
+   Created new file-> Add
+   Pull
+   Commit and Push
