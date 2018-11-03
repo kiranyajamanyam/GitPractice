@@ -12,3 +12,6 @@ Folder -> Repository
    Created new file-> Add
    Pull
    Commit and Push
+   
+   
+   Commit example
