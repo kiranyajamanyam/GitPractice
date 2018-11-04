@@ -9,6 +9,7 @@ Folder -> Repository
    
    
    Clone--completed
+  code comitted and pushed on nov 3
    Created new file-> Add
    Pull
    Commit and Push
