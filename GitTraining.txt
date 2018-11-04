@@ -14,9 +14,10 @@ Folder -> Repository
    Pull
    Commit and Push
    
-   
+cmd-git push origin master 
    Commit example
 
 Testing pull
 
 Develop Branch
+push code to decelop branch
