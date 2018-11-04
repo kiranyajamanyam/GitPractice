@@ -9,11 +9,15 @@ Folder -> Repository
    
    
    Clone--completed
+  code comitted and pushed on nov 3
    Created new file-> Add
    Pull
    Commit and Push
    
-   
+cmd-git push origin master 
    Commit example
 
 Testing pull
+
+Develop Branch
+push code to decelop branch
