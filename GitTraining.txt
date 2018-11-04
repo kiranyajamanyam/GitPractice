@@ -8,7 +8,7 @@ Folder -> Repository
    b) Push
    
    
-   Clone
+   Clone--completed
    Created new file-> Add
    Pull
    Commit and Push
