@@ -20,4 +20,5 @@ cmd-git push origin master
 Testing pull
 
 Develop Branch
-push code to decelop branch
+push code to develop branch
+
