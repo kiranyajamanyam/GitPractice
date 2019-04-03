@@ -19,6 +19,6 @@ cmd-git push origin master
 
 Testing pull
 
-Develop Branch
+Dev Branch
 push code to develop branch
 
